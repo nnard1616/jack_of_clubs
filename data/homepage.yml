@@ -1,0 +1,32 @@
+# Main Title
+main:
+  header:
+    title : "Jack of Clubs" # Title Text
+    description : "Juggler, Dancer, Teacher, and Entertainer." # Title Desc
+    button:
+      text: "Learn More" # Button Text
+      url: "#about" # Button URL
+
+# About
+about:
+  title: "About Me"
+  desc: "Jack of Clubs is my name, and Juggling is my game.  I love spreading the joy of juggling by both performing and teaching the art of juggling.  If you should require a family friendly entertainer for your next birthday, reception, office party, or other fun events then you've come to the right place!  See below for more information."
+  #  button:
+  #    enable: true
+  #    text: "Button"
+  #    url: "#"
+  #  image: "assets/img/ipad.png"
+
+projects:
+  card1:
+    title: "Dance, Dance, Dance!"
+    text: "Not only do I like to juggle, but I like to dance while juggling with any groovy tunes!"
+    img: "assets/img/FB_IMG_1686761593087.jpg"
+  card2:
+    title: "LED Clubs"
+    text: "I really shine in the dark with my LED clubs!"
+    img: "assets/img/Bizarre Bazaar_Transition_0052.jpg"
+  card3:
+    title: "Teaching"
+    text: "Kids and adults of all ages enjoy learning how to juggle, and I love helping others experience the joys of juggling!"
+    img: "assets/img/FB_IMG_1686761607688.jpg"
